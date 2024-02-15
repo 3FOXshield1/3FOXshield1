@@ -1,4 +1,4 @@
-- #  <div align="center"> 👋 Hi, I'm 3FOXshirld1 </dev>
+- #  <div align="center"> 👋 Hi, I'm 3FOXshield1 </dev>
 - 👀 I’m currently working on something cool!
 - 🌱 I’m currently learning from my LIFE!
    ***
@@ -6,7 +6,7 @@
 ### <div align="center"> Language and Tools </dev>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,linux,mysql,vscode" />
   </a>
 </p>
 <!---
